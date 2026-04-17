@@ -64,8 +64,7 @@ h1 {
 
 .search button {
   padding: 10px 25px;
-  /*background-color: #f9d342;*/
-  background-color:blue;
+  background-color: #f9d342;
   color: #000;
   border: none;
   border-radius: 20px;
@@ -185,4 +184,3 @@ h1 {
     font-size: 0.85rem;
   }
 }
-
